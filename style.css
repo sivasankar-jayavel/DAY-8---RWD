@@ -1,0 +1,59 @@
+.container{
+
+    border: 2px solid black;
+    margin: 70px 400px ;
+    padding: 5px;
+
+}
+
+p{
+   text-align: center;
+   font-size:medium;
+   
+}
+
+h3{
+    text-align: center;
+   font-style: italic;
+   padding: 30px;
+}
+
+.Box{
+
+    border: 2px solid black;
+    margin: 15px 45px 50px 50px ;
+    padding: 50px; 
+    height: 300px; 
+    position: relative;
+
+}
+
+.Box1{
+
+    border: 2px solid black;
+    width: 180px;
+    padding: 50px;
+    margin: 20px 50px 60px 50px ;
+    position: absolute;
+    justify-items:center;
+
+}
+
+.sai{
+    text-align: end;
+    position: absolute;
+    margin: 10px 10px 10px 390px;
+}
+
+.sai1{
+    margin: 190px 5px 5px 390px;
+    text-align: end;
+}
+
+.foo{
+    width: 400px;
+}
+
+
+
+
